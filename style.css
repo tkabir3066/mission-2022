@@ -101,7 +101,7 @@ section .document-child{
 }
 
 section .banner-1{
-  background-image: url(images/shapes/shape-1.png);
+  background-image: url(Images/shapes/shape-1.png);
   background-repeat: no-repeat;
   background-position: left;
   background-size: 30%;
@@ -121,7 +121,7 @@ section .banner-1{
  
 }
 .project-banner{
-  background-image: url(images/shapes/shape-1.png);
+  background-image: url(Images/shapes/shape-1.png);
   background-repeat: no-repeat;
   background-position: right bottom;
   background-size: 30%;
